@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Atividade_2_Navegação_Entre_Telas'
